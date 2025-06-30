@@ -19,7 +19,7 @@ API_ID = 21758143
 API_HASH = "154769775792944f6cd51a77b54c57a7"
 BOT_TOKEN = "8183391520:AAECRY_hrzlI_u5RpzvP84IRA66YIFKjv_E"
 DEVS = [6211784722, 5411980856]
-BOT_USERNAME = "BOT" # change your bot username without @
+BOT_USERNAME = "Copyright_ProtectBot" # change your bot username without @
 
 ALL_GROUPS = []
 TOTAL_USERS = []
